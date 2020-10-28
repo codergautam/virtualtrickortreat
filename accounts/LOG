@@ -1,0 +1,14 @@
+2020/10/28-11:15:30.653 c45c Recovering log #416
+2020/10/28-11:15:30.653 c45c Level-0 table #418: started
+2020/10/28-11:15:30.722 c45c Level-0 table #418: 2296 bytes OK
+2020/10/28-11:15:30.767 c45c Delete type=0 #416
+2020/10/28-11:15:30.768 c45c Delete type=3 #414
+2020/10/28-11:15:30.793 e2f0 Compacting 4@0 + 1@1 files
+2020/10/28-11:15:30.879 e2f0 Generated table #420@0: 99 keys, 13991 bytes
+2020/10/28-11:15:30.879 e2f0 Compacted 4@0 + 1@1 files => 13991 bytes
+2020/10/28-11:15:30.910 e2f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/10/28-11:15:30.910 e2f0 Delete type=2 #407
+2020/10/28-11:15:30.911 e2f0 Delete type=2 #409
+2020/10/28-11:15:30.911 e2f0 Delete type=2 #412
+2020/10/28-11:15:30.911 e2f0 Delete type=2 #415
+2020/10/28-11:15:30.912 e2f0 Delete type=2 #418

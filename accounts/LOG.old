@@ -1,0 +1,5 @@
+2020/10/28-11:14:01.979 cc14 Recovering log #413
+2020/10/28-11:14:02.010 cc14 Level-0 table #415: started
+2020/10/28-11:14:02.075 cc14 Level-0 table #415: 3548 bytes OK
+2020/10/28-11:14:02.165 cc14 Delete type=0 #413
+2020/10/28-11:14:02.165 cc14 Delete type=3 #411
